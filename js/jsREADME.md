@@ -1,11 +1,3 @@
 This folder will contain all the javascript files.
 
-As of now, I do not have a great history of javascript but I'm learning!
-
-
-
-
-
-
-
-Yup still not friends with javascript after this. But on the bright side I learned some things.
+(I'm pretty sure these are exactly the same as the OG 2048 files, so I take no credit for writing this code)
