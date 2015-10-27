@@ -134,6 +134,20 @@ hr {
   margin: 0 auto;
   max-width: 500px;}
 
+/*spoiler tag*/
+.spoiler{
+  width:190px;
+  background:black;
+}
+
+.spoiler ol {
+  color:black;
+}
+
+.spoiler ol:hover {
+  color:white;
+}
+
 @-webkit-keyframes fade-in {
   0% {
     opacity: 0; }
